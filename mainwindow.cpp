@@ -100,7 +100,7 @@ MainWindow::MainWindow(QWidget *parent) :
 */
 void MainWindow::openGitHub()
 {
-    QDesktopServices::openUrl(QUrl("https://github.com/rishabhprakash/BlackJack", QUrl::TolerantMode));
+    QDesktopServices::openUrl(QUrl("https://github.com/rishabhprakash/BlackJackQt", QUrl::TolerantMode));
 }
 
 /*  @function   startNewGame
