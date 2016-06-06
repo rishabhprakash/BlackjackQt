@@ -1,0 +1,58 @@
+<RCC>
+    <qresource prefix="/">
+        <file>_Back.png</file>
+        <file>Clubs 1.png</file>
+        <file>Clubs 2.png</file>
+        <file>Clubs 3.png</file>
+        <file>Clubs 4.png</file>
+        <file>Clubs 5.png</file>
+        <file>Clubs 6.png</file>
+        <file>Clubs 7.png</file>
+        <file>Clubs 8.png</file>
+        <file>Clubs 9.png</file>
+        <file>Clubs 10.png</file>
+        <file>Clubs 11.png</file>
+        <file>Clubs 12.png</file>
+        <file>Clubs 13.png</file>
+        <file>Diamonds 1.png</file>
+        <file>Diamonds 2.png</file>
+        <file>Diamonds 3.png</file>
+        <file>Diamonds 4.png</file>
+        <file>Diamonds 5.png</file>
+        <file>Diamonds 6.png</file>
+        <file>Diamonds 7.png</file>
+        <file>Diamonds 8.png</file>
+        <file>Diamonds 9.png</file>
+        <file>Diamonds 10.png</file>
+        <file>Diamonds 11.png</file>
+        <file>Diamonds 12.png</file>
+        <file>Diamonds 13.png</file>
+        <file>Hearts 1.png</file>
+        <file>Hearts 2.png</file>
+        <file>Hearts 3.png</file>
+        <file>Hearts 4.png</file>
+        <file>Hearts 5.png</file>
+        <file>Hearts 6.png</file>
+        <file>Hearts 7.png</file>
+        <file>Hearts 8.png</file>
+        <file>Hearts 9.png</file>
+        <file>Hearts 10.png</file>
+        <file>Hearts 11.png</file>
+        <file>Hearts 12.png</file>
+        <file>Hearts 13.png</file>
+        <file>Spades 1.png</file>
+        <file>Spades 2.png</file>
+        <file>Spades 3.png</file>
+        <file>Spades 4.png</file>
+        <file>Spades 5.png</file>
+        <file>Spades 6.png</file>
+        <file>Spades 7.png</file>
+        <file>Spades 8.png</file>
+        <file>Spades 9.png</file>
+        <file>Spades 10.png</file>
+        <file>Spades 11.png</file>
+        <file>Spades 12.png</file>
+        <file>Spades 13.png</file>
+        <file>deck.jpg</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>blackjack.jpg</file>
+        <file>table.jpg</file>
+        <file>dealer.gif</file>
+        <file>informationbutton.png</file>
+        <file>rulesbackground.jpg</file>
+    </qresource>
+</RCC>

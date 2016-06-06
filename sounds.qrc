@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>cardSlide1.wav</file>
+        <file>chipLay1.wav</file>
+        <file>chipsHandle1.wav</file>
+        <file>chipsHandle5.wav</file>
+    </qresource>
+</RCC>
