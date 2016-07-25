@@ -7,6 +7,9 @@
 #include <QDesktopServices>
 #include <QUrl>
 
+
+/* This is the startup window for the game - user can navigate to the rules, my github, or begin playing blackjack (open a gamewindow) */
+
 /* Constructor for MainWindow class object */
 MainWindow::MainWindow(QWidget *parent) :
     QMainWindow(parent),
